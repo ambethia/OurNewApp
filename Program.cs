@@ -6,7 +6,7 @@ namespace OurNewApp
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Welcome to C#");
+      Console.WriteLine("Hello, World, my name is Jason.");
     }
   }
 }
